@@ -1,6 +1,6 @@
 {
   "name": "cssjson",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "Converts CSS to JSON and back.",
   "main": "cssjson.js",
   "scripts": {
